@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("../font/stylesheet.css");
+body
+*,
+*:before,
+*:after 
+{
+	background-color:#F4F1F1;
+	color: #180708;
+	font-family: "Roboto", sans-serif;
+	}
+.bg-trongsuot{
+	 background-color: rgba(203,173,208,1.00)
+	
+	
+}
+.bg-gradient{
+background-image: url( "../img/images.png");
+}
+.font-script
+{
+	 font-family: 'Dancing Script';
+}
+.font-script
+{
+	font-family: "Roboto", sans-serif;
+	color: #3221A7;
+}
